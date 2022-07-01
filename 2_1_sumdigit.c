@@ -14,4 +14,3 @@ int main()
   printf("%d is the sum of the digits of number %d \n",sum,num);
   return 0;
 }
-
